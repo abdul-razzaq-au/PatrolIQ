@@ -230,4 +230,5 @@ MLFlow UI Link: https://dagshub.com/armaaz.au.stats/PatrolIQ.mlflow    <br>
 App link : https://patroliq-8utkmekssatxpqcogtmcjp.streamlit.app/
 
 ---
-
+## 👨‍💻 Author
+**Abdul Razzaq**
